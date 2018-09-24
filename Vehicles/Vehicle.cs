@@ -16,5 +16,9 @@ namespace Vehicles
         {
             Console.WriteLine($"Stopping engine: {noiseToMakeWhenStopping}");
         }
+        public virtual void Drive()
+        {
+            Console.WriteLine("Default implementation of the Drive method");
+        }
     }
 }

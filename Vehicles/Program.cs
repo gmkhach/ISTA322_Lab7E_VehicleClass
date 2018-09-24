@@ -6,7 +6,7 @@ namespace Vehicles
     {
         static void doWork()
         {
-            // TODO:
+
         }
 
         static void Main()
